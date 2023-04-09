@@ -111,7 +111,7 @@ internal class App
         Console.CursorVisible = false;
 
         // Title
-        Console.Title = "Tetris | By: Kat9_123";
+        Console.Title = "Tetris | By: Rahiyan Safin";
 
         // Start the inputthread to get live inputs
         Thread inputThread = new(Input);
